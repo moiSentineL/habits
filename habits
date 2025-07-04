@@ -1,0 +1,18 @@
+# This is your habits file.
+# It tells harsh what to track and how frequently.
+# 1 means daily, 7 means weekly, 14 every two weeks.
+# You can also track targets within a set number of days.
+# For example, Gym 3 times a week would translate to 3/7.
+# 0 is for tracking a habit. 0 frequency habits will not warn or score.
+# Examples:
+
+! WEEKLY
+workouts: 4/7
+
+! DAILY
+bed by 2230h: 1
+deep work (4h+): 1
+forecasting: 1
+
+! TRACKING
+anki after meals: 0
